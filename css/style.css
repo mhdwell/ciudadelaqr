@@ -1,0 +1,105 @@
+/*favicon.css*/
+.Header {
+	background-color: rgba(34, 34, 34, 1);
+	color: #FFF;
+	height: 50px;
+}
+
+.Header-container {
+	margin: 0 auto;
+	max-width: 1200px;
+	height: 50px
+		
+}
+
+.Logo {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 998;
+	
+}
+
+.Logo-link	{
+	display: block;
+	width: 8rem;
+	height: 8rem;
+	text-indent: -9999px;
+	background-image: url('../img/logo-01.png'); 
+	background-size: 7.5rem;
+	background-repeat: no-repeat;
+	background-position: center;
+    position: relative;
+	z-index: 9999;
+	top:0;
+ 
+}
+
+.Main {
+
+	background-color: #ca128a;
+}
+
+
+
+
+.Main-container {
+	margin: 0 auto;
+	width: 1200px;
+	
+
+}
+
+.descripcion {
+	background-color: rgba(122,152,192, .8);
+	margin: 0 auto;
+	
+	
+}
+
+.img {
+	overflow: hidden;
+	background-color: rgba(122,152,192, .8);
+
+}
+
+
+.img img {
+	height: 200px;
+	width: 200px;
+	
+}
+
+
+
+
+@media screen and (min-width: 60em){
+	
+	.Logo {
+       position: fixed;
+	   top: 0;
+	   left: 110px;
+	   z-index: 998;
+	}
+
+	.img{height: 900px;
+	width: 60%;
+}
+
+.img img {
+	height: 200px;
+	width: 200px;
+	
+}
+.descripcion {
+	background-color: rgba(122,152,192, .8);
+	margin: 15px;
+	padding: 10px;margin: 15px;
+	padding: 10px;
+	
+}
+
+	
+    
+}
+
