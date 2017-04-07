@@ -1,0 +1,14 @@
+/* Ciudadela - http://midominio.com */
+
+/* TEAM */
+	Diseño y Programación Web: Jonathan MirCha
+	Contact: augfarel [at] gmail.com
+	Twitter: @
+	From: Mexico city, México
+
+/* SITE */
+	Last update: 2017/03/16
+	Language: Español
+	Standars: HTML5, CSS3, JavaScript
+	Components: Responsive Design, Mobile first
+	Software: Visual Studio Code, PowerShell, Chrome, Illustrator, Photoshop
